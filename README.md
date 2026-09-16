@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：历史统计
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 013 篇 - 百家乐Ai预测分析工具：四舍五入为什么会让占比不满百分之百](https://github.com/TGmszrcsz/baccarat-ai-013) ｜ [下一篇：第 015 篇 - 百家乐Ai预测分析工具：未知状态不能悄悄从总数中消失](https://github.com/TGmszrcsz/baccarat-ai-015)
+
+<!-- article-chain:end -->
+
 同一份历史数据因是否保留和局而出现不同结构。本篇围绕“和局如何影响历史分布的阅读”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、为什么值得单独检查
